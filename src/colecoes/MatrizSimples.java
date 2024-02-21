@@ -1,4 +1,4 @@
-package fundamentos;
+package colecoes;
 
 import java.util.Arrays;
 
@@ -9,7 +9,7 @@ import java.util.Arrays;
  * Usando o ".length" para retornar o tamanho (comprimento) do array em valor inteiro.
  */
 
-public class App {
+public class MatrizSimples {
     public static void main(String[] args) throws Exception {
         double[] notasAlunosA = new double[3];
 
